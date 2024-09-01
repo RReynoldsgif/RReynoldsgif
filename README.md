@@ -3,8 +3,7 @@
 <h2>👨‍💻 Microsoft Azure Projects:</h2>
 
 <h2>👨‍💻 Linux Command Line Projects:</h2>
-  [Apache Setup Troubleshooting](https://github.com/RReynoldsgif/Apache-HTTP-Server-setup-and-troubleshooting-on-Linux/edit/main/README.md)
-  
+[Apache-Setup-Troubleshooting](https://github.com/RReynoldsgif/Apache-HTTP-Server-setup-and-troubleshooting-on-Linux)
   
 <h2> 📫 How to reach me:</h2
 
