@@ -1,4 +1,4 @@
-<h1>👋🏽 Welcome, My name is  Ryan Reynolds I am Dedicated IT Professional with Google and Microsoft Certifications | Versatile Expertise in System Administration, IT Support, and Python Automation <h1>
+<h1>👋🏽 Welcome, My name is  Ryan Reynolds I am Dedicated IT Professional with ations | Versatile Expertise in System Administration, IT Support, and Python Automation <h1>
 
 <h2>👨‍💻 Microsoft Azure Projects:</h2>
 
