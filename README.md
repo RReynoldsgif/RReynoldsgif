@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 Linux Command Line Projects:</h2>
 
-  - [Apache Setup Troubleshooting Repository](https://github.com/RReynoldsgif/Apache-Setup-Troubleshooting)
+  - [Apache Setup Troubleshooting](https://github.com/RReynoldsgif/Apache-Setup-Troubleshooting)
   
 <h2> 📫 How to reach me:</h2
 
