@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Microsoft Azure Projects:</h2>
 <ul>
-  <li><a href="https://github.com/RReynoldsgif/azure-network-lab-icmp-ssh-dns">Creating Virtual Machines in Microsoft Azure</a></li>
+  <li><a href="https://github.com/RReynoldsgif/Creating-Virtual-Machines-in-Microsoft-?tab=readme-ov-file#-creating-virtual-machines-in-microsoft-azure">Creating Virtual Machines in Microsoft Azure</a></li>
 </ul>
 <h2>👨‍💻 Linux Command Line Projects:</h2>
 
