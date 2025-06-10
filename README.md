@@ -1,7 +1,8 @@
 <h1>👋🏽 Welcome, My name is  Ryan Reynolds I am Dedicated IT Professional with ations | Versatile Expertise in System Administration, IT Support, and Python Automation <h1>
 
 <h2>👨‍💻 Microsoft Azure Projects:</h2>
-  - [Creating Virtual Machines in Microsoft Azure] (https://github.com/RReynoldsgif/Creating-Virtual-Machines-in-Microsoft-/edit/main/README.md)
+  - [Creating Virtual Machines in Microsoft Azure](https://github.com/RReynoldsgif/Creating-Virtual-Machines-in-Microsoft-?tab=readme-ov-file#-creating-virtual-machines-in-microsoft-azure)
+
 <h2>👨‍💻 Linux Command Line Projects:</h2>
 
   - [Apache Setup Troubleshooting](https://github.com/RReynoldsgif/Apache-Setup-Troubleshooting)
