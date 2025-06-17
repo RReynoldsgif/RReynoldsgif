@@ -17,6 +17,7 @@
   - [NFS Server Setup and Troubleshooting](https://github.com/RReynoldsgif/NFS-Network-File-System-Server))
 - [Security Practices In System Administration.](https://github.com/RReynoldsgif/Setting-User-Account-Password-Expirations-)
 - [Setting User Account Password Expirations](https://github.com/RReynoldsgif/Setting-User-Account-Password-Expirations-)
+- [Linux Command Line: Directory and File Operations](https://github.com/RReynoldsgif/Linux-Command-Line-Directory-and-File-Operations)
 <h2> 📫 How to reach me:</h2
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
