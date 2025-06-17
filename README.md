@@ -7,6 +7,10 @@
 <ul>
   <li><a href="https://github.com/RReynoldsgif/osTicket-Installation-Lab">osTicket Installation Lab (Windows 10 Local Environment)</a></li>
 </ul>
+<ul> 
+  <li><a href="https://github.com/RReynoldsgif/Azure-Network-Lab-ICMP-SSH-DNS-DHCP-RDP-Traffic-Capture">Azure Network Lab: ICMP, SSH, DNS, DHCP, and RDP Traffic Capture</a></li>
+</ul>
+
 <h2>👨‍💻 Linux Command Line Projects:</h2>
 
   - [Apache Setup Troubleshooting](https://github.com/RReynoldsgif/Apache-Setup-Troubleshooting)
