@@ -14,7 +14,7 @@
 <h2>👨‍💻 Linux Command Line Projects:</h2>
 
   - [Apache Setup Troubleshooting](https://github.com/RReynoldsgif/Apache-Setup-Troubleshooting)
-  - [NFS Server Setup and Troubleshooting](https://github.com/RReynoldsgif/NFS-Network-File-System-Server))
+  - [NFS Server Setup and Troubleshooting](https://github.com/RReynoldsgif/NFS-Network-File-System-Server)
 - [Security Practices In System Administration.](https://github.com/RReynoldsgif/Setting-User-Account-Password-Expirations-)
 - [Setting User Account Password Expirations](https://github.com/RReynoldsgif/Setting-User-Account-Password-Expirations-)
 - [Linux Command Line: Directory and File Operations](https://github.com/RReynoldsgif/Linux-Command-Line-Directory-and-File-Operations)
