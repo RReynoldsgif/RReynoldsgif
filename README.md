@@ -13,7 +13,7 @@
 <ul>
   <li><a href="https://github.com/RReynoldsgif/Network-File-Shares-and-Permissions/blob/main/README.md">Network File Shares and Permissions </a></li>
 </ul>
-<li><a href="https://github.com/RReynoldsgif/Azure-Network-Lab-ICMP-SSH-DNS-DHCP-RDP-Traffic-Capture">Azure Lab Building intuition for DNS</a></li>
+<li><a href="https://github.com/RReynoldsgif/Azure-Lab-Building-intuition-for-DNS">Azure Lab Building intuition for DNS</a></li>
 </ul>
 <h2>👨‍💻 Linux Command Line Projects:</h2>
 
