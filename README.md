@@ -13,7 +13,10 @@
 <ul>
   <li><a href="https://github.com/RReynoldsgif/Network-File-Shares-and-Permissions/blob/main/README.md">Network File Shares and Permissions </a></li>
 </ul>
-<li><a href="https://github.com/RReynoldsgif/Azure-Lab-Building-intuition-for-DNS">Azure Lab Building intuition for DNS</a></li>
+  <li><a href="https://github.com/RReynoldsgif/Azure-Lab-Building-intuition-for-DNS">Azure Lab Building intuition for DNS</a></li>
+</ul>
+<ul>
+  <li><a href="https://github.com/RReynoldsgif/Creating-Virtual-Machines-in-Microsoft-?tab=readme-ov-file#-creating-virtual-machines-in-microsoft-azure">Azure-Active-Directory-Group-Policy-and-Managing-Accounts</a></li>
 </ul>
 <h2>👨‍💻 Linux Command Line Projects:</h2>
 
