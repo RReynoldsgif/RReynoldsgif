@@ -11,6 +11,9 @@
   <li><a href="https://github.com/RReynoldsgif/Azure-Network-Lab-ICMP-SSH-DNS-DHCP-RDP-Traffic-Capture">Azure Network Lab: ICMP, SSH, DNS, DHCP, and RDP Traffic Capture</a></li>
 </ul>
 <ul>
+  <ul>
+  <li><a href="https://github.com/RReynoldsgif/Azure-Active-Directory-Domain-Services-Lab/blob/main/README.md">Azure AD Domain Services Lab – Promote DC, Create OUs & Admins</a></li>
+</ul>
   <li><a href="https://github.com/RReynoldsgif/Network-File-Shares-and-Permissions/blob/main/README.md">Network File Shares and Permissions </a></li>
 </ul>
   <li><a href="https://github.com/RReynoldsgif/Azure-Lab-Building-intuition-for-DNS">Azure Lab Building intuition for DNS</a></li>
