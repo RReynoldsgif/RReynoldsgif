@@ -5,7 +5,7 @@
   <li><a href="https://github.com/RReynoldsgif/Creating-Virtual-Machines-in-Microsoft-?tab=readme-ov-file#-creating-virtual-machines-in-microsoft-azure">Creating Virtual Machines in Microsoft Azure</a></li>
 </ul>
 <ul>
-  <li><a href="https://github.com/RReynoldsgif/osTicket-Installation-Lab">osTicket Installation Lab (Windows 10 Local Environment)</a></li>
+  <li><a href="https://github.com/RReynoldsgif/osTicket-Installation-Lab">Ticketing System (os Ticket)</a></li>
 </ul>
 <ul> 
   <li><a href="https://github.com/RReynoldsgif/Azure-Network-Lab-ICMP-SSH-DNS-DHCP-RDP-Traffic-Capture">Azure Network Lab: ICMP, SSH, DNS, DHCP, and RDP Traffic Capture</a></li>
