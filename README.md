@@ -12,7 +12,7 @@
 </ul>
 <ul>
   <ul>
-  <li><a href="https://github.com/RReynoldsgif/Azure-Active-Directory-Domain-Services-Lab/blob/main/README.md">Azure AD Domain Services Lab – Promote DC, Create OUs & Admins</a></li>
+  <li><a href="https://github.com/RReynoldsgif/Azure-Active-Directory-Domain-Services-Lab/blob/main/README.md">Active Directory Deployment Lab – Promote DC, Create OUs & Admins</a></li>
 </ul>
   <li><a href="https://github.com/RReynoldsgif/Network-File-Shares-and-Permissions/blob/main/README.md">Network File Shares and Permissions </a></li>
 </ul>
@@ -21,8 +21,7 @@
 <ul>
   <li><a href="https://github.com/RReynoldsgif/Azure-Active-Directory-Group-Policy-and-Managing-Accounts">Azure-Active-Directory-Group-Policy-and-Managing-Accounts</a></li>
 </ul>
-<ul>
-  <li><a href="https://github.com/RReynoldsgif/Azure-Active-Directory-Domain-Services-Lab">Azure Active Directory Deployment</a></li>
+<ul> 
 </ul>
 <h2>👨‍💻 Linux Command Line Projects:</h2>
 
