@@ -1,7 +1,19 @@
-<h1>👋🏽 Welcome, My name is  Ryan Reynolds 💻 Entry-level IT Professional | Hands-on experience with Azure labs, Active Directory, DNS, DHCP, osTicket, and Linux system administration.
+<h1>👋 Welcome!
+
+  
+My name is Ryan Reynolds 💻 — an Entry-Level IT Professional with hands-on experience in Azure cloud environments, Windows Active Directory, networking (DNS, DHCP, ICMP, RDP), and Linux system administration.
+
+
+
 📜 Certified in Google IT Support, Google IT Automation with Python, and Microsoft IT Support.
-⚡ Skilled in Python, Bash, and PowerShell scripting; familiar with Docker, Jenkins, and Ansible.
-📂 Check out my projects here on GitHub: [Active Directory lab, osTicket setup, Linux server troubleshooting, Azure networking labs]. <h1>
+
+
+
+⚡ Skilled in Python, Bash, and PowerShell scripting, and familiar with Docker, Jenkins, and Ansible.
+
+
+
+📁 My projects highlight practical troubleshooting, configuration, and system management skills through real-world scenarios such as virtual machine deployment, osTicket setup, network file sharing and permissions, DNS configuration, and Linux server troubleshooting. <h1>
 
 <h2>👨‍💻 Microsoft Azure Projects:</h2>
 <ul>
