@@ -46,7 +46,12 @@ My name is Ryan Reynolds 💻 — an Entry-Level IT Professional with hands-on e
 - [Setting User Account Password Expirations](https://github.com/RReynoldsgif/Setting-User-Account-Password-Expirations-)
 - [Linux Command Line: Directory and File Operations](https://github.com/RReynoldsgif/Linux-Command-Line-Directory-and-File-Operations)
 - [Advanced File Manipulation and Privilege Escalation in Linux](https://github.com/RReynoldsgif/Advanced-File-Manipulation-and-Privilege-Escalation-in-Linux)
-<h2> 📫 How to reach me:</h2
+
+
+## Microsoft 365 & Entra ID Projects
+
+- [Microsoft 365 New Hire Onboarding Lab](https://github.com/RReynoldsgif/Microsoft-365-New-hire-onboarding-Lab)
+  <h2> 📫 How to reach me:</h2
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
