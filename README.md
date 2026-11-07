@@ -1,7 +1,7 @@
 <h1>👋 Welcome!
 
   
-My name is Ryan Reynolds 💻 — an Entry-Level IT Professional with hands-on experience in Azure cloud environments, Windows Active Directory, networking (DNS, DHCP, ICMP, RDP), and Linux system administration.
+My name is Ryan Reynolds 💻 — an IT Professional with hands-on experience in Azure cloud environments, Windows Active Directory, networking (DNS, DHCP, ICMP, RDP), and Linux system administration.
 
 
 
