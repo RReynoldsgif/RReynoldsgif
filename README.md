@@ -1,5 +1,5 @@
 # Ryan Reynolds
-### Entry-Level IT Support | Microsoft 365 | Azure | Systems Administration
+### IT Support | Microsoft 365 | Azure | Systems Administration
 
 Welcome to my IT portfolio!
 
