@@ -3,7 +3,7 @@
 
 Welcome to my IT portfolio!
 
-I'm an aspiring IT Support Specialist with hands-on experience building and troubleshooting systems in Microsoft Azure, Microsoft 365, Windows, Active Directory, and Linux environments.
+I'm an Support Specialist with hands-on experience building and troubleshooting systems in Microsoft Azure, Microsoft 365, Windows, Active Directory, and Linux environments.
 
 I use practical labs to develop technical skills in user account administration, identity and access management, networking, cloud infrastructure, system configuration, and troubleshooting.
 
